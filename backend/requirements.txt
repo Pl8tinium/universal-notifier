@@ -1,0 +1,4 @@
+schedule
+selenium
+webdriver_manager
+python-telegram-bot

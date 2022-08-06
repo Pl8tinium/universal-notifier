@@ -1,0 +1,9 @@
+{
+    "active": true,
+    "checkInterval": 2,
+    "lastChecked": "00:54:58 07/08/2022",
+    "name": "tzstats",
+    "script": "lastRound = null; nodes = document.getElementsByClassName(\"WindowList__Wrapper-sc-1uf51ze-0 ldXRhu\")[0].childNodes; nodes.forEach(item => { if (item.childNodes[0] !== undefined && item.childNodes[0].className.baseVal == \"Icons__Wrapper-sc-nne2ly-1 WOqmF\") { lastRound = item.nextElementSibling }}); numberstr = lastRound.childNodes[1].childNodes[0].childNodes[0].childNodes[9].innerHTML; idx = numberstr.search(\"<\"); number = parseInt(numberstr.substring(0, idx)); return number > 90;",
+    "state": true,
+    "website": "https://tzstats.com/tz1fUyqYH7H4pRHN1roWY17giXhy1RvxjgUV#income"
+}
