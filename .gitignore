@@ -4,3 +4,4 @@ todo.txt
 tele_bot_receivers.txt
 plugins.json
 node_modules
+__pycache__

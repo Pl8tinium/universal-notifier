@@ -11,7 +11,7 @@ it depends on your js skills how long your plugin works as the site might change
 - install dependencies
 - get telegram bot token (use google) and put into backend.py
 - start backend.py
-- start frontend (e.g. 'npm run dev')
+- start frontend (e.g. install node modules and 'npm run dev')
 .. would in theory run without frontend but useful for adjusting plugins
 
 ## cool ideas 
